@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="test" type="turtlebot_move_in_custom_client.py" name="turtlebot_move_in_custom_client" output="screen">
+        
+    </node>
+</launch>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="test" type="avoid.py" name="avoid_test" output="screen">
+        
+    </node>
+</launch>
