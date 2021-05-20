@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="navigation" type="square_move.py" name="square_move" output="screen">
+        
+    </node>
+</launch>
